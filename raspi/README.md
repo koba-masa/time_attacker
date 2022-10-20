@@ -13,6 +13,7 @@ $ sudo apt-get install libjpeg-dev
 
 ### 起動コマンド
 ```sh
+$ cd raspi
 $ poetry install
 $ poetry run python3 raspi/time_attacer
 ```
